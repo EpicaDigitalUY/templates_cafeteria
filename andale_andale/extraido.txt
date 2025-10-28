@@ -1,0 +1,181 @@
+index.html>linea:83
+
+ <div class="menu-table">
+            <div class="menu-tablas">
+                <!-- Item Tabla -->
+                <div class="menu-item">
+                    <h3>PARA PICAR</h3>
+                    <ul class="tabla-list">
+                        <li>BASTONES DE MUZZA (X 6 UN.)</li>
+                        <li>+ SALSA A ELECCIÓN................................$370</li>
+                        <li>PAPAS FRITAS............................................$240</li>
+                        <li>PAPAS FRITAS SALSEADAS</li>
+                        <li>(BACON, CHAMPI, 4Q)...............................$370</li>
+                        <li>PAPAS RÚSTICAS.......................................$290</li>
+                        <li>RÚSTICAS SALSEADAS</li>
+                        <li>(BACON, CHAMPI, 4Q)...............................$390</li>
+                        <li>GRAMAJO (1P)...........................................$390</li>
+                        <li>GRAMAJO (2P)...........................................$590</li>
+                        <li>MINIATURAS DE PESCADO (PORCIÓN)....$490</li>
+                        <li>RABAS (PORCIÓN).....................................$490</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item">
+                    <h3>PIZZETAS</h3>
+                    <ul class="tabla-list">
+                        <li>MUZZARELLA................................................$390</li>
+                        <li>CAPRESSE.....................................................$530</li>
+                        <li>4 QUESOS......................................................$530</li>
+                        <li>PANCETA, CHEDDAR, HUEVO......................$530</li>
+                        <li>ACEITUNAS...................................................$530</li>
+                        <li>NAPOLITANA................................................$290</li>
+                        <li>PIZZETA (PANCETA, HUEVO</li>
+                        <li>CHEDDAR Y PAPAS FRITAS)........................$600</li>
+                        <li>FAINA.............................................................$160</li>
+                        <li>PORCIÓN DE FIGAZZA..................................$170</li>
+                        <li>FIGAZZA C/MUZZA.......................................$490</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item">
+                    <h3>PASTAS</h3>
+                    <ul class="tabla-list">
+                        <li>SORRENTINOS................................................$490</li>
+                        <li>RAVIOLES........................................................$430</li>
+                        <li class="nota"><i>*SALSA A ELECCIÓN: CARUSSO, SALSA FILETO.</i></li>
+                    </ul>
+                    <P class="underline-menu">
+                        ________________________________________________________________________________</P>
+                    <h3>TABLAS</h3>
+                    <ul class="tabla-list">
+                        <li><u>PROMO 1 - TABLA DORADO</u></li>
+                        <li>4 MILANESAS C/GUSTOS + FRITAS + RÚSTICAS</li>
+                        <li>1L CERVEZA PATRICIA O REFRESCO 1.5L........$1190</li>
+                        <li><u>PROMO 2 - TABLA PICAFLOR</u></li>
+                        <li>3 MILANESAS C/GUSTOS + FRITAS +</li>
+                        <li>1L CERVEZA PATRICIA O REFRESCO.................$1890</li>
+                        <li><u>PROMO 3 - TABLA MARTÍN PESCARDOR</u></li>
+                        <li>RABAS + MINIATURAS DE PESCADO + CAMARONES</li>
+                        <li>EMPANADOS + FRITAS + PAPAS RÚSTICAS +</li>
+                        <li>1L CERVEZA PATRICIA O REFRESCO.................$1890</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item">
+                    <h3>MENÚ INFANTIL</h3>
+                    <ul class="tabla-list">
+                        <li>NUGGETS + FRITAS................................................$280</li>
+                        <li>MILA JR + PURÉ......................................................$280</li>
+                        <li>BASTÓN MUZZA (4UN.).........................................$280</li>
+                        <li>HAMBURGUESA + FRITAS.....................................$280</li>
+                    </ul>
+                    <P class="underline-menu">
+                        ________________________________________________________________________________</P>
+                    <h3>ENSALADAS</h3>
+                    <ul class="tabla-list">
+                        <li>ENSALADA CESAR</li>
+                        <li>(QUESO PARMESANO, POLLO, MIX DE HOJAS VERDES,</li>
+                        <li>TOSTADAS)..............................................................$350</li>
+                        <li>ENSALADA TIBIA DE CAMARONES</li>
+                        <li>(MIX HOJAS VERDES, TOMATE, QUESO, CAMARONES</li>
+                        <li>SALTEADOS CON AJO Y PIMENTON ROJO)..........$590</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item under-item">
+                    <h3>HAMBURGUESAS</h3>
+                    <ul class="tabla-list">
+                        <li>AL PAN COMPLETA CON FRITAS</li>
+                        <li>(HUEVO FRITO, PANCETA, MUZZA, JAMÓN,</li>
+                        <li>LECHUGA, TOMATE)...................................$490</li>
+                        <li>HAMBURGUESA RELLENA "HORNERO"</li>
+                        <li>(PAN NEGRO, CHEDDAR, PANCETA,</li>
+                        <li>LECHUGA, TOMATE, RELLENA DE MUZZA +</li>
+                        <li>PAPAS RÚSTICAS........................................$490</li>
+                        <li>HAMBURGUESA VEGETARIANA + FRITAS</li>
+                        <li>(LENTEJA O QUINOA, PAN DE REMOLACHA,</li>
+                        <li>MORRÓN ASADO, MUZZA, LECHUGA</li>
+                        <li>TOMATE, SALSA GOLF)..............................$330</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item under-item">
+                    <h3>CHIVITOS</h3>
+                    <ul class="tabla-list">
+                        <li>AL PAN + FRITAS</li>
+                        <li>(LECHUGA, TOMATE, HUEVO DURO)............$430</li>
+                        <li>CANADIENSE AL PAN + FRITAS</li>
+                        <li>(MUZZA, JAMÓN, PANCETA, HUEVO DURO,</li>
+                        <li>LECHUGA, TOMATE)......................................$490</li>
+                        <li>CANADIENSE AL PLATO + FRITAS (MUZZA,</li>
+                        <li>JAMÓN,PANCETA, HUEVO DURO,</li>
+                        <li>LECHUGA, .TOMATE).....................................$520</li>
+                        <li>CANADIENSE PARA 2 + FRITAS Y MIXTA....$890</li>
+                        <br>
+                        <li>COSTILLA CON GUARNICIÓN</li>
+                        <li>PURÉ DE PAPAS O PAPAS FRITAS................$530</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item under-item-2">
+                    <h3>TACOS</h3>
+                    <ul class="tabla-list">
+                        <li>2 TACOS + NACHOS O PAPAS FRITAS</li>
+                        <li>A ELECCIÓN: POLLO, CERDO, VEGETALES.........$490</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item under-item menu-milanesas">
+                    <h3>MILANESAS</h3>
+                    <ul class="tabla-list">
+                        <li>MILA CON FRITAS...................................................$340</li>
+                        <li>MILANESA COMPLETA EN 2 PANES CON FRITAS</li>
+                        <li>(PANCETA, MUZZA, JAMÓN, HUEVO FRITO, LECHUGA,</li>
+                        <li>TOMATE)..................................................................$430</li>
+                        <li>NAPOLITANA + FRITAS...........................................$490</li>
+                        <li>NAPOLITANA NIDITO PARA 2 CON FRITAS...........$890</li>
+                        <li>MILA BACON + FRITAS + SALSA............................$490</li>
+                    </ul>
+                </div>
+                <P class="underline">
+                    ________________________________________________________________________________________________________________________________________________________________________________________________
+                </P>
+                <!-- Item Tabla -->
+                <div class="menu-item">
+                    <h3>BEBIDAS</h3>
+                    <ul class="tabla-list">
+                        <li>COCA COLA 600 C.C...................................$140</li>
+                        <li>COCA COLA 1.5L.........................................$280</li>
+                        <li>FANTA 600 C.C............................................$140</li>
+                        <li>SPRITE 600 C.C...........................................$140</li>
+                        <li>AGUA TÓNICA.............................................$140</li>
+                        <li>AGUA VITALE..............................................$110</li>
+                        <li>RED BULL....................................................$160</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item">
+                    <h3>CERVEZAS</h3>
+                    <ul class="tabla-list">
+                        <li>PATRICIA 1L...................................................$280</li>
+                        <li>STELLA ARTOIS 1L........................................$340</li>
+                        <li>CERVEZA CERO..............................................$190</li>
+                        <br>
+                        <li><b>CERVEZAS BEER (TIRADA 500 C.C)</b></li>
+                        <li>(BLOND)................................................$200</li>
+                        <li>SCOTTISH.......................................................$200</li>
+                        <li>IPA...................................................................$200</li>
+                        <li>DOBLE IPA......................................................$240</li>
+                    </ul>
+                </div>
+                <!-- Item Tabla -->
+                <div class="menu-item postres">
+                    <h3>POSTRES</h3>
+                    <ul class="tabla-list">
+                        <li>FLAN CON DULCE DE LECHE.......................$220</li>
+                        <li>HELADO 2 BOCHAS......................................$280</li>
+                    </ul>
+                </div>
+            </div>
+        </div>

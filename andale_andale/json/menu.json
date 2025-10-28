@@ -1,0 +1,74 @@
+[
+  {
+    "imagen": "/img/platillos/ensalada_cesar.avif",
+    "id": 1,
+    "nombre_comida": "Ensalada César",
+    "ingredientes": ["lechuga romana", "pollo a la plancha", "crutones", "queso parmesano", "salsa César"],
+    "precio": 250,
+    "categoria": "ENSALADAS"
+  },
+  {
+    "imagen" : "/img/platillos/ensalada_mediterranea.webp",
+    "id": 2,
+    "nombre_comida": "Ensalada Mediterránea",
+    "ingredientes": ["tomate cherry", "pepino", "aceitunas negras", "queso feta", "aceite de oliva", "orégano"],
+    "precio": 230,
+    "categoria": "ENSALADAS"
+  },
+  {
+    "id": 3,
+    "nombre_comida": "Pizzeta Margarita",
+    "ingredientes": ["masa de pizza", "salsa de tomate", "mozzarella", "albahaca", "aceite de oliva"],
+    "precio": 320,
+    "categoria": "PIZZETAS"
+  },
+  {
+    "id": 4,
+    "nombre_comida": "Pizzeta Cuatro Quesos",
+    "ingredientes": ["masa de pizza", "mozzarella", "roquefort", "provolone", "parmesano", "salsa blanca"],
+    "precio": 350,
+    "categoria": "PIZZETAS"
+  },
+  {
+    "id": 5,
+    "nombre_comida": "Hamburguesa Clásica",
+    "ingredientes": ["pan de hamburguesa", "carne vacuna", "queso cheddar", "lechuga", "tomate", "mayonesa"],
+    "precio": 340,
+    "categoria": "HAMBURGUESAS"
+  },
+  {
+    "id": 6,
+    "nombre_comida": "Hamburguesa BBQ",
+    "ingredientes": ["pan brioche", "carne vacuna", "queso cheddar", "cebolla caramelizada", "salsa barbacoa", "bacon"],
+    "precio": 380,
+    "categoria": "HAMBURGUESAS"
+  },
+  {
+    "id": 7,
+    "nombre_comida": "Tacos de Pollo",
+    "ingredientes": ["tortillas de maíz", "pollo desmenuzado", "cebolla", "cilantro", "limón", "salsa picante"],
+    "precio": 260,
+    "categoria": "TACOS"
+  },
+  {
+    "id": 8,
+    "nombre_comida": "Tacos al Pastor",
+    "ingredientes": ["tortillas de maíz", "cerdo adobado", "piña", "cebolla", "cilantro", "salsa roja"],
+    "precio": 280,
+    "categoria": "TACOS"
+  },
+  {
+    "id": 9,
+    "nombre_comida": "Tacos Vegetarianos",
+    "ingredientes": ["tortillas integrales", "porotos negros", "pimiento", "choclo", "palta", "salsa de yogur"],
+    "precio": 240,
+    "categoria": "TACOS"
+  },
+  {
+    "id": 10,
+    "nombre_comida": "Pizzeta Napolitana",
+    "ingredientes": ["masa de pizza", "salsa de tomate", "mozzarella", "tomate en rodajas", "ajo", "orégano"],
+    "precio": 330,
+    "categoria": "PIZZETAS"
+  }
+]
