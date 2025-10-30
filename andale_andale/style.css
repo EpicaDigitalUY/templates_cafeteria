@@ -325,60 +325,11 @@ header .navbar-inside .whatsapp-navbar a:hover {
     color: #dadada;
 }
 
-/* .menu .menu-table h3 {
-    color: #d6d6d6;
-    margin: 20px 0 9px 0;
-}
-
-.menu .menu-table .menu-tablas {
-    display: flex;
-    gap: 50px;
-    flex-wrap: wrap;
-}
-
-.menu .menu-table .menu-tablas .menu-item img {
-    aspect-ratio: 1 / 1;
-    width: 200px;
-    height: 200px;
-}
-
-.menu .menu-table .menu-tablas .menu-item ul {
-    line-height: 30px;
-}
-
-.menu .menu-table .menu-tablas .menu-item ul li {
-    font-size: 13px;
-    color: #bebebe;
-}
-
-.menu .menu-table .menu-tablas .menu-item ul li.nota {
-    color: #bebebe;
-    font-size: 14px;
-    font-family: 'Times New Roman', Times, serif;
-} */
 
 p.underline-menu {
     font-size: 10px;
     font-weight: 300;
     margin: 10px 0 30px 0;
-}
-
-.menu .menu-table .menu-tablas .under-item {
-    margin-top: -140px;
-}
-
-.menu .menu-table .menu-tablas .under-item-2 {
-    margin-top: -30px;
-}
-
-.menu .menu-table .menu-tablas .menu-milanesas {
-    margin-left: 40px;
-}
-
-.menu .menu-table .menu-tablas .postres {
-    height: 50%;
-    background-color: #1a1a1a;
-    padding: 10px 50px 40px 50px;
 }
 
 /* OPINIONES */
@@ -486,6 +437,11 @@ p.underline {
     color: #aaa;
 }
 
+#reservaForm input {
+    justify-self: center;
+    margin: 0 auto;
+}
+
 #reservaForm button {
     grid-column: span 2;
     background-color: transparent;
@@ -573,4 +529,13 @@ p.underline {
 .footer-copy a{
     color: #777;
     text-decoration: underline;
+}
+
+@media(width<480px){
+    .categorias-container {
+        padding: 1rem 0;
+    }
+    .platillo {
+        width: 100%;
+    }
 }

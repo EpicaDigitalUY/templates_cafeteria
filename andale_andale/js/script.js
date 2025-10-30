@@ -77,5 +77,7 @@ fetch('/json/menu.json')
             });
         }
     }
-    );
+).catch((e) => {
+    catContainer.innerHTML = `<p>UPS, tenemos un problema, pide un menú físico</p>`
+});
 
